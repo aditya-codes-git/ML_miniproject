@@ -1,0 +1,58 @@
+[I 2026-10-28 22:01:08.578 ServerApp] Extension package jupyter_lsp took 0.2030s to import
+[I 2026-10-28 22:01:08.856 ServerApp] Extension package jupyter_server_terminals took 0.2761s to import
+[I 2026-10-28 22:01:14.653 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-28 22:01:14.661 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-28 22:01:14.669 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-28 22:01:14.679 ServerApp] notebook | extension was successfully linked.
+[I 2026-10-28 22:01:14.872 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-28 22:01:14.946 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-28 22:01:14.949 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-28 22:01:14.950 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-28 22:01:14.959 LabApp] JupyterLab extension loaded from C:\Users\Aditya\AppData\Local\Programs\Python\Python311\Lib\site-packages\jupyterlab
+[I 2026-10-28 22:01:14.959 LabApp] JupyterLab application directory is C:\Users\Aditya\AppData\Local\Programs\Python\Python311\share\jupyter\lab
+[I 2026-10-28 22:01:14.960 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-28 22:01:15.327 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-28 22:01:15.335 ServerApp] notebook | extension was successfully loaded.
+[I 2026-10-28 22:01:15.336 ServerApp] Serving notebooks from local directory: D:\ML_miniproject
+[I 2026-10-28 22:01:15.336 ServerApp] Jupyter Server 2.21.1 is running at:
+[I 2026-10-28 22:01:15.336 ServerApp] http://127.0.0.1:8888/tree?token=90f5a8a3929de0540ef13e586f5f1e9887980401347eac8f
+[I 2026-10-28 22:01:15.336 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-28 22:01:15.386 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///C:/Users/Aditya/AppData/Roaming/jupyter/runtime/jpserver-19808-open.html
+    Or copy and paste one of these URLs:
+        http://127.0.0.1:8888/tree?token=90f5a8a3929de0540ef13e586f5f1e9887980401347eac8f
+[I 2026-10-28 22:01:16.090 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2026-10-28 22:01:35.312 ServerApp] Notebook aditya_ml_project.ipynb is not trusted
+[I 2026-10-28 22:01:38.861 ServerApp] Kernel started: 5f56498e-253d-4c4a-a6c3-44a0004b3d0a
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-28 22:01:40.291 ServerApp] Adapting from protocol version 5.3 (kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a) to 5.4 (client).
+[I 2026-10-28 22:01:40.292 ServerApp] Connecting to kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a.
+[W 2026-10-28 22:01:40.302 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2026-10-28 22:01:40.311 ServerApp] Adapting from protocol version 5.3 (kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a) to 5.4 (client).
+[I 2026-10-28 22:01:40.313 ServerApp] Connecting to kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a.
+[I 2026-10-28 22:01:40.331 ServerApp] Adapting from protocol version 5.3 (kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a) to 5.4 (client).
+[I 2026-10-28 22:01:40.332 ServerApp] Connecting to kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a.
+[I 2026-10-28 22:03:35.629 ServerApp] Saving file at /aditya_ml_project.ipynb
+[I 2026-10-28 22:05:46.827 ServerApp] Saving file at /aditya_ml_project.ipynb
+[I 2026-10-28 22:06:23.289 ServerApp] Saving file at /aditya_ml_project.ipynb
+[I 2026-10-28 22:33:05.007 ServerApp] Creating new notebook in 
+[I 2026-10-28 22:33:06.301 ServerApp] Adapting from protocol version 5.3 (kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a) to 5.4 (client).
+[I 2026-10-28 22:33:06.308 ServerApp] Connecting to kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a.
+[I 2026-10-28 22:33:09.132 ServerApp] Kernel started: 5ce1ec45-29fb-4a3a-bb39-56ac7ee20ff1
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[I 2026-10-28 22:33:10.619 ServerApp] Adapting from protocol version 5.3 (kernel 5ce1ec45-29fb-4a3a-bb39-56ac7ee20ff1) to 5.4 (client).
+[I 2026-10-28 22:33:10.623 ServerApp] Connecting to kernel 5ce1ec45-29fb-4a3a-bb39-56ac7ee20ff1.
+[I 2026-10-28 22:33:13.796 ServerApp] Adapting from protocol version 5.3 (kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a) to 5.4 (client).
+[I 2026-10-28 22:33:13.802 ServerApp] Connecting to kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a.
+[I 2026-10-28 22:33:13.833 ServerApp] Adapting from protocol version 5.3 (kernel 5ce1ec45-29fb-4a3a-bb39-56ac7ee20ff1) to 5.4 (client).
+[I 2026-10-28 22:33:13.840 ServerApp] Connecting to kernel 5ce1ec45-29fb-4a3a-bb39-56ac7ee20ff1.
+[I 2026-10-28 22:33:21.128 ServerApp] Adapting from protocol version 5.3 (kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a) to 5.4 (client).
+[I 2026-10-28 22:33:21.144 ServerApp] Connecting to kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a.
+[I 2026-10-28 22:33:21.199 ServerApp] Adapting from protocol version 5.3 (kernel 5ce1ec45-29fb-4a3a-bb39-56ac7ee20ff1) to 5.4 (client).
+[I 2026-10-28 22:33:21.211 ServerApp] Connecting to kernel 5ce1ec45-29fb-4a3a-bb39-56ac7ee20ff1.
+[I 2026-10-28 22:33:21.814 ServerApp] Adapting from protocol version 5.3 (kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a) to 5.4 (client).
+[I 2026-10-28 22:33:21.816 ServerApp] Connecting to kernel 5f56498e-253d-4c4a-a6c3-44a0004b3d0a.
+[I 2026-10-28 22:34:11.132 ServerApp] Starting buffering for 5ce1ec45-29fb-4a3a-bb39-56ac7ee20ff1:9431e5b8-7570-4e54-ae93-96102171a42c
